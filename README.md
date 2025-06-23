@@ -45,13 +45,13 @@
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="https://t.me/yourtelegram" target="_blank">
+  <a href="https://t.me/w8_m3" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="mailto:yourmail@example.com" target="_blank">
+  <a href="mailto:badarudheenvk7@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
+  <a href="https://linkedin.com/in/badaruvk" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
