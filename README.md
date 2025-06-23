@@ -1,47 +1,64 @@
-<h1 align="center">Hi 👋, I'm Badarudheen VK</h1>
-<h3 align="center">Ethical Hacker | Web Developer | Telegram Bot Creator</h3>
+<!-- Profile Header -->
+<h1 align="center" style="font-weight: bold;">
+  🚀 Badarudheen VK
+</h1>
+<h3 align="center">
+  Ethical Hacker • Telegram Bot Developer • Web Designer
+</h3>
 
 ---
 
-🔐 Passionate about **Cybersecurity & Ethical Hacking**  
-🤖 I build powerful **Telegram Bots using PHP**  
-🌐 Skilled in **HTML, CSS, Tailwind CSS**  
-📚 Constantly learning new tech & tools  
-🚀 On a mission to create secure, smart digital solutions
+<!-- About Section -->
+### 🙋‍♂️ About Me
+
+- 🔐 Cybersecurity Enthusiast & Ethical Hacking Learner  
+- 🤖 Developer of powerful Telegram Bots using **PHP**  
+- 🌐 Web Dev experience in **HTML, CSS, Tailwind CSS**  
+- 🧠 Always exploring new tools, languages, and frameworks  
+- ⚙️ Interested in automation, OSINT, and privacy-focused tech  
 
 ---
 
-### 🛠️ Languages & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=php,html,css,tailwind,js,bash,linux,vscode,github" />
-</p>
-
----
-
-### 📈 GitHub Stats
+<!-- Skills Section -->
+### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=badarudheenvk&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badarudheenvk&layout=compact&theme=radical" height="150" />
+  <img src="https://skillicons.dev/icons?i=php,html,css,tailwind,js,vscode,linux,git,bash" />
 </p>
 
 ---
 
-### 🔗 Connect with me
+<!-- GitHub Stats Section -->
+### 📊 GitHub Activity
 
-<p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=badarudheenvk&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=badarudheenvk&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badarudheenvk&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+<!-- Contact Section -->
+### 📫 Connect With Me
+
+<p align="center">
   <a href="https://t.me/yourtelegram" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
-  <a href="mailto:yourmail@example.com">
+  <a href="mailto:yourmail@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/yourlinkedin/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 ---
 
-> ⚡ "Code with purpose. Build with passion."
-
+<!-- Footer Quote -->
+<p align="center">
+  <i>“Hack to learn, not to destroy.”</i>
+</p>
